@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**DezBenedek/DezBenedek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Dezső Benedek
 
-Here are some ideas to get you started:
+## Bemutatkozás
+Üdvözöllek a README fájlomban! Én Dezső Benedek vagyok, és ez az oldal egy rövid összefoglalót nyújt rólam, a projektjeimről és az érdeklődési körömről.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Rólam
+- **Név**: Dezső Benedek Péter  
+- **Foglalkozás**: Diák, programozó, software fejlesztő
+- **Helyszín**: Magyarország/Budapest
+- **Hobbi**: Fotózás, zenélés, programozás 
+
+## Projektek
+Itt találhatsz néhány projektet, amin dolgoztam vagy dolgozom:
+1. **Érettségi adatbank** - Életem eddigi legnagyobb projektje, hamarosan hatalmas újításokkal 
+ 
+
+## Érdeklődési kör
+- Mesterséges intelligencia
+- Webfejlesztés
+- Természet fotózás 
+
+## Kapcsolat
+Ha szeretnél felvenni velem a kapcsolatot, itt elérhetsz:  
+- **Email**: benedek@dezso.hu
+- **GitHub**: github.com/DezBenedek
+
+Köszönöm, hogy megnézted a README-met!  
