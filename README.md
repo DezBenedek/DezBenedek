@@ -1,12 +1,8 @@
 
 # Dezső Benedek
 
-## Bemutatkozás
-Üdvözöllek a README fájlomban! Én Dezső Benedek vagyok, és ez az oldal egy rövid összefoglalót nyújt rólam, a projektjeimről és az érdeklődési körömről.
-
 ## Rólam
 - **Név**: Dezső Benedek Péter  
-- **Foglalkozás**: Diák, programozó, software fejlesztő
 - **Helyszín**: Magyarország/Budapest
 - **Hobbi**: Fotózás, zenélés, programozás 
 
